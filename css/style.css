@@ -677,8 +677,8 @@ a {
 		height: 100vh;
 		background-image: url("../assets/img/WhatsApp Image 2022-04-27 at 2.01.37 PM.jpeg");
 		background-repeat: no-repeat;
-		background-position: top center;
-		background-size:100% 100%;
+		background-position:center;
+		background-size:contain;
 		filter: drop-shadow(2px 4px 6px #777);
 	}
 }
